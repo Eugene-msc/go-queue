@@ -1,4 +1,4 @@
-package go_queue
+package queue
 
 import (
 	"sync"
